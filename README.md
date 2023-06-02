@@ -25,8 +25,10 @@
 <code><img height="35" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png"></code>
 
 **DevOps Tools**  
-<code><img height="35" src="https://code.visualstudio.com/assets/updates/1_35/logo-stable.png"></code>
-
+<code><img height="35" src="https://storage.googleapis.com/static.ianlewis.org/prod/img/docker/large_v-trans.png"></code>
+<code><img height="35" src="https://awari.com.br/wp-content/uploads/2022/11/o-que-e-kubernetes.jpg"></code>
+<code><img height="35" src=""></code>
+<code><img height="35" src=""></code>
 **Programming languages:**
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
