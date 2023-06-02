@@ -27,7 +27,7 @@
 **DevOps Tools**  
 
 <code><img height="35" src="https://storage.googleapis.com/static.ianlewis.org/prod/img/docker/large_v-trans.png"></code>
-<code><img height="35" src="[https://awari.com.br/wp-content/uploads/2022/11/o-que-e-kubernetes.jpg](https://i0.wp.com/codeblog.dotsandbrackets.com/wp-content/uploads/2017/07/kubernetes.jpg?resize=821%2C714&ssl=1)"></code>
+<code><img height="35" src="https://sue.eu/wp-content/uploads/sites/6/2022/06/kubernetes-logo-920x920-sue-v0.png"></code>
 <code><img height="35" src="https://www.freecodecamp.org/news/content/images/2021/09/ansble.png"></code>
 
 **Programming languages:**
