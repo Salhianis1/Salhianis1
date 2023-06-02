@@ -38,18 +38,14 @@
 <code><img height="35" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png"></code>
 
 **Operating System:**
+
 <code><img height="35" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png"></code>
-
 <code><img height="35" src="https://www.freepnglogos.com/uploads/windows-logo-png/windows-logo-mygalaxy-view-singularlogic-6.png"></code>
-
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Lubuntu.svg/480px-Lubuntu.svg.png"></code>
-
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parrot_Logo.png/632px-Parrot_Logo.png?20191030192001
 "></code>
-
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png
 "></code>
-
 
 
 ![Anis's github stats](https://github-readme-stats.vercel.app/api?username=Salhianis1&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919)
