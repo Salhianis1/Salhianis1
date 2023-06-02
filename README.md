@@ -42,7 +42,7 @@
 <code><img height="35" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png"></code>
 <code><img height="35" src="https://www.freepnglogos.com/uploads/windows-logo-png/windows-logo-mygalaxy-view-singularlogic-6.png"></code>
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Lubuntu.svg/480px-Lubuntu.svg.png"></code>
-<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parrot_Logo.png/632px-Parrot_Logo.png?20191030192001
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parrot_Logo.png/632px-Parrot_Logo.png
 "></code>
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png
 "></code>
