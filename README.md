@@ -25,10 +25,10 @@
 <code><img height="35" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png"></code>
 
 **DevOps Tools**  
+
 <code><img height="35" src="https://storage.googleapis.com/static.ianlewis.org/prod/img/docker/large_v-trans.png"></code>
-<code><img height="35" src="https://awari.com.br/wp-content/uploads/2022/11/o-que-e-kubernetes.jpg"></code>
-<code><img height="35" src=""></code>
-<code><img height="35" src=""></code>
+<code><img height="35" src="[https://awari.com.br/wp-content/uploads/2022/11/o-que-e-kubernetes.jpg](https://i0.wp.com/codeblog.dotsandbrackets.com/wp-content/uploads/2017/07/kubernetes.jpg?resize=821%2C714&ssl=1)"></code>
+<code><img height="35" src="https://www.freecodecamp.org/news/content/images/2021/09/ansble.png"></code>
 
 **Programming languages:**
 
