@@ -29,6 +29,7 @@
 <code><img height="35" src="https://storage.googleapis.com/static.ianlewis.org/prod/img/docker/large_v-trans.png"></code>
 <code><img height="35" src="https://sue.eu/wp-content/uploads/sites/6/2022/06/kubernetes-logo-920x920-sue-v0.png"></code>
 <code><img height="35" src="https://www.freecodecamp.org/news/content/images/2021/09/ansble.png"></code>
+<code><img height="35" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/argoprojio/argoprojio-ar21.svg"></code>
 
 **Programming languages:**
 
