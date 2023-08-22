@@ -8,9 +8,9 @@
 
 ##### At Present:
 
-- 🌱 I’m currently learning [Flutter](https://flutter.dev). 
+- 🌱 I’m currently learning DevOps. 
 
-- 💬 Ask me about **Mobile App Development.**
+- 💬 Ask me about **DevOps.**
 
 - 📫 How To Reach Me: salhianisbf1@gmail.com
 
