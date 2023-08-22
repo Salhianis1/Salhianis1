@@ -29,6 +29,8 @@
 <code><img height="35" src="https://sue.eu/wp-content/uploads/sites/6/2022/06/kubernetes-logo-920x920-sue-v0.png"></code>
 <code><img height="35" src="https://www.freecodecamp.org/news/content/images/2021/09/ansble.png"></code>
 <code><img height="35" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg"></code>
+<code><img height="35" src="https://seeklogo.com/images/H/helm-logo-9208DB3EE5-seeklogo.com.png"></code>
+
 
 
 **Programming languages:**
