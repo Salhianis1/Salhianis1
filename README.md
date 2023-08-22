@@ -22,14 +22,14 @@
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png?20200803071016"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="35" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg"></code>
 
 **DevOps Tools**  
 
 <code><img height="35" src="https://storage.googleapis.com/static.ianlewis.org/prod/img/docker/large_v-trans.png"></code>
 <code><img height="35" src="https://sue.eu/wp-content/uploads/sites/6/2022/06/kubernetes-logo-920x920-sue-v0.png"></code>
 <code><img height="35" src="https://www.freecodecamp.org/news/content/images/2021/09/ansble.png"></code>
-<code><img height="35" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/argoprojio/argoprojio-ar21.svg"></code>
+<code><img height="35" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg"></code>
+
 
 **Programming languages:**
 
