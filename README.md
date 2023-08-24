@@ -64,7 +64,7 @@
 Do Give A Look To My [Repositories](https://github.com/Salhianis1?tab=repositories) And ⭐ It 
 
 
-![snake gif](https://github.com/Salhianis1/Salhianis1/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Salhianis1/Salhianis1/blob/output/github-contribution-grid-snake.svg)
 
 
 
