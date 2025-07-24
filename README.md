@@ -119,25 +119,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salhianis1&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919" alt="Top Languages" />
 </p>
 
-[![Anis's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Salhianis1&theme=react-dark&area=true&hide_border=true)](https://github.com/Salhianis1)
-
-
-[![Anis's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Salhianis1&theme=react-dark&area=true&line=00ff00&point=ff69b4&area_color=00ff0077&bg_color=0d1117&hide_border=true)](https://github.com/Salhianis1)
-
-
-[![Anis's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Salhianis1&theme=react-dark&area=true&line=1e90ff&point=00ced1&area_color=1e90ff66&bg_color=0d1117&hide_border=true)](https://github.com/Salhianis1)
-
-
-[![Anis's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Salhianis1&theme=dark&area=true&line=ff4500&point=ffd700&area_color=ff634766&bg_color=1e1e1e&hide_border=true)](https://github.com/Salhianis1)
-
-
-[![Anis's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Salhianis1&theme=dark&area=true&line=8a2be2&point=da70d6&area_color=8a2be266&bg_color=0a0a0a&hide_border=true)](https://github.com/Salhianis1)
-
-
-[![Anis's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Salhianis1&theme=dark&area=true&line=32cd32&point=7fff00&area_color=32cd3266&bg_color=101010&hide_border=true)](https://github.com/Salhianis1)
-
-[![Anis's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Salhianis1&theme=dark&area=true&line=ff0000&point=ffffff&area_color=ff000077&bg_color=121212&hide_border=true)](https://github.com/Salhianis1)
-
 [![Anis's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Salhianis1&theme=light&area=true&line=a0aec0&point=718096&area_color=a0aec077&bg_color=f7fafc&hide_border=true)](https://github.com/Salhianis1)
 
 
