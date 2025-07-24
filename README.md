@@ -106,6 +106,7 @@
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salhianis1&show_icons=true&theme=radical)
+![Anis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salhianis1&show_icons=true&count_private=true)
 
 
 <p align="center">
