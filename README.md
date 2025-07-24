@@ -8,8 +8,9 @@
 </h1>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:wght@700&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+SALHI+Anis" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:wght@700&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+SALHI+Anis;🚀+DevOps+Engineer;💻+Open+Source+Enthusiast;🌍+Based+in+Tunisia" alt="Typing animation" />
 </h1>
+
 
 
 
