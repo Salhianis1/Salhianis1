@@ -126,6 +126,10 @@
 
 [![Anis's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Salhianis1&theme=light&area=false&line=a0aec0&point=718096&bg_color=f7fafc&hide_border=true&width=400&height=100)](https://github.com/Salhianis1)
 
+![Anis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salhianis1&show_icons=true&count_private=true)
+
+
+
 ---
 
 ⭐ **Check out my [Repositories](https://github.com/Salhianis1?tab=repositories) and give a star if you like my work!** ⭐
