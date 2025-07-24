@@ -121,6 +121,33 @@
 
 [![Anis's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Salhianis1&theme=react-dark&area=true&hide_border=true)](https://github.com/Salhianis1)
 
+
+<div align="center">
+  <h3>📊 My GitHub Activity</h3>
+  <p>Consistent coding & continuous learning</p>
+  <a href="https://github.com/Salhianis1">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Salhianis1&theme=react-dark&area=true&hide_border=true" alt="Anis's GitHub Activity"/>
+  </a>
+</div>
+
+
+## 📈 GitHub Activity  
+Tracking my coding journey day by day — building, learning, and evolving.  
+[![Anis's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Salhianis1&theme=react-dark&area=true&hide_border=true)](https://github.com/Salhianis1)
+
+
+### My GitHub Coding Activity  
+Stay consistent, keep growing!  
+[![Anis's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Salhianis1&theme=react-dark&area=true&hide_border=true)](https://github.com/Salhianis1)
+
+
+[![Anis's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Salhianis1&theme=react-dark&area=true&hide_border=true)](https://github.com/Salhianis1)
+
+
+
+
+
+
 ---
 
 ⭐ **Check out my [Repositories](https://github.com/Salhianis1?tab=repositories) and give a star if you like my work!** ⭐
