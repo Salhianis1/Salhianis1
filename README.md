@@ -116,12 +116,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salhianis1&layout=compact&hide_border=false&title_color=white&text_color=daf7dc&icon_color=bb2acf&bg_color=white" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salhianis1&layout=compact&hide_border=false&title_color=dark&text_color=daf7dc&icon_color=bb2acf&bg_color=white" alt="Top Languages" />
 </p>
 
 
 
-[![Anis's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Salhianis1&theme=light&area=false&line=a0aec0&point=718096&bg_color=f7fafc&hide_border=true&width=400&height=100)](https://github.com/Salhianis1)
+[![Anis's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Salhianis1&theme=light&area=false&line=a0aec0&point=718096&bg_color=f7fafc&hide_border=true&width=400&height=300)](https://github.com/Salhianis1)
 
 
 ---
