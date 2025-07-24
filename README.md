@@ -111,7 +111,19 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salhianis1&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Salhianis1&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919" alt="Anis's GitHub Stats" />
+</p>
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Salhianis1&theme=dark&hide_border=false" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salhianis1&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919" alt="Top Languages" />
+</p>
 
 [![Nour's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Salhianis1&theme=react-dark&area=true&hide_border=true)](https://github.com/Salhianis1)
 ---
