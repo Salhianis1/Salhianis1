@@ -3,6 +3,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=22D3E3&center=true&vCenter=true&width=500&lines=Hi,+I'm+SALHI+Anis" alt="Typing animation" />
 </h1>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=22D3E3&center=true&vCenter=true&width=500&lines=Hi,+I'm+SALHI+Anis;DevOps+Engineer;Open+Source+Contributor;Welcome+to+my+profile!" alt="Typing animation" />
+</h1>
+
+
+
+
+
+
 <!-- Social Media / Contacts Badges -->
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Salhianis1)
