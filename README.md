@@ -111,6 +111,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salhianis1&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919)
 
+
+
+[![Nour's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Salhianis1&theme=react-dark&area=true&hide_border=true)](https://github.com/Salhianis1)
 ---
 
 ⭐ **Check out my [Repositories](https://github.com/Salhianis1?tab=repositories) and give a star if you like my work!** ⭐
