@@ -117,7 +117,6 @@
 
 ---
 
-![GitHub Snake](https://github.com/Salhianis1/Salhianis1/blob/output/github-contribution-grid-snake.svg)
 
 
 
