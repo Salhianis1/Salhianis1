@@ -95,16 +95,22 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Parrot OS](https://img.shields.io/badge/Parrot_OS-00bfff?style=for-the-badge)
 
-![Anis's github stats](https://github-readme-stats.vercel.app/api?username=Salhianis1&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919)
+## 📊 GitHub Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Salhianis1&theme=dark)](https://git.io/streak-stats)
+![Anis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salhianis1&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919)
 
-![MSL](https://github-readme-stats.vercel.app/api/top-langs/?username=Salhianis1&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Salhianis1&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
-Do Give A Look To My [Repositories](https://github.com/Salhianis1?tab=repositories) And ⭐ It 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salhianis1&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919)
 
+---
 
-![snake gif](https://github.com/Salhianis1/Salhianis1/blob/output/github-contribution-grid-snake.svg)
+⭐ **Check out my [Repositories](https://github.com/Salhianis1?tab=repositories) and give a star if you like my work!** ⭐
+
+---
+
+![GitHub Snake](https://github.com/Salhianis1/Salhianis1/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
