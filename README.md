@@ -128,6 +128,9 @@
 ![Anis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salhianis1&show_icons=true&count_private=true)
 
 
+[![Anis's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Salhianis1&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ---
 
 ⭐ **Check out my [Repositories](https://github.com/Salhianis1?tab=repositories) and give a star if you like my work!** ⭐
