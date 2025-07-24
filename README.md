@@ -8,7 +8,7 @@
 
 ##### At Present:
 
-- 🌱 I’m currently learning DevOps. 
+- 🌱 I’m currently learning DevOps, BigData, AI, Machine Learning. 
 
 - 💬 Ask me about **DevOps.**
 
