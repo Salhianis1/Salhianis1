@@ -123,6 +123,9 @@
 
 [![Anis's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Salhianis1&theme=light&area=true&line=a0aec0&point=718096&area_color=a0aec077&bg_color=f7fafc&hide_border=true&width=400&height=300)](https://github.com/Salhianis1)
 
+
+[![Anis's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Salhianis1&theme=light&area=false&line=a0aec0&point=718096&bg_color=f7fafc&hide_border=true&width=400&height=100)](https://github.com/Salhianis1)
+
 ---
 
 ⭐ **Check out my [Repositories](https://github.com/Salhianis1?tab=repositories) and give a star if you like my work!** ⭐
