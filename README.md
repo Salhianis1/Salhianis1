@@ -120,6 +120,7 @@
 </p>
 
 [![Anis's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Salhianis1&theme=react-dark&area=true&hide_border=true)](https://github.com/Salhianis1)
+
 ---
 
 ⭐ **Check out my [Repositories](https://github.com/Salhianis1?tab=repositories) and give a star if you like my work!** ⭐
