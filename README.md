@@ -116,7 +116,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salhianis1&layout=compact&hide_border=false&title_color=dark&text_color=daf7dc&icon_color=bb2acf&bg_color=white" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salhianis1&layout=compact&hide_border=false&title_color=0d1117&text_color=2c3e50&icon_color=bb2acf&bg_color=ffffff" alt="Top Languages" />
+
 </p>
 
 
