@@ -1,4 +1,7 @@
-
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi,+I'm+SALHI+Anis;DevOps+Engineer;Welcome+to+my+profile!" alt="Typing animation" />
 </h1>
